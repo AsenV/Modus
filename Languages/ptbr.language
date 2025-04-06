@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language id="0" text="langManager[0]"/>
+    <language id="1" text="Inicio"/>
+    <language id="2" text="Sem título"/>
+    <language id="3" text="Arquivo"/>
+    <language id="4" text="Novo"/>
+    <language id="5" text="Abrir.."/>
+    <language id="6" text="Salvar"/>
+    <language id="7" text="Salvar Como.."/>
+    <language id="8" text="Fechar"/>
+    <language id="9" text="Arquivos"/>
+    <language id="10" text="Ferramentas"/>
+    <language id="11" text="Debug"/>
+    <language id="12" text="Salvamento Automático"/>
+    <language id="13" text="Rolar Pra Baixo"/>
+    <language id="14" text="Associar"/>
+    <language id="15" text="Personalizar"/>
+    <language id="16" text="Deseja associar a extensão de arquivos .dus ao Modus?"/>
+    <language id="17" text="Confirmar Ação"/>
+    <language id="18" text="Ajuda"/>
+    <language id="19" text="Sobre"/>
+    <language id="20" text="Linguagem"/>
+    <language id="21" text="Erro ao abrir o arquivo:"/>
+    <language id="22" text="Erro ao salvar arquivo:"/>
+    <language id="23" text="Deseja salvar as alterações?"/>
+    <language id="24" text="Nenhum resultado encontrado."/>
+    <language id="25" text="Erro"/>
+    <language id="26" text="Não é possível colar a pasta dentro dela mesma."/>
+    <language id="27" text="Não é possível colar a pasta dentro de uma subpasta dela mesma."/>
+    <language id="28" text="Copia"/>
+    <language id="29" text="Tem certeza que deseja excluir esta pasta e todo o seu conteúdo?"/>
+    <language id="30" text="Excluir Pasta"/>
+    <language id="31" text="Tem certeza que deseja excluir este documento?"/>
+    <language id="32" text="Excluir Documento"/>
+    <language id="33" text="Digite o novo nome da pasta:"/>
+    <language id="34" text="Renomear Pasta"/>
+    <language id="35" text="Já existe uma pasta com esse nome."/>
+    <language id="36" text="Digite o novo nome do documento:"/>
+    <language id="37" text="Renomear Documento"/>
+    <language id="38" text="Já existe um documento com esse nome."/>
+    <language id="39" text="Digite o nome da nova pasta:"/>
+    <language id="40" text="Adicionar Pasta"/>
+    <language id="41" text="Já existe uma pasta com esse nome."/>
+    <language id="42" text="Nova Pasta"/>
+    <language id="43" text="Digite o nome do novo documento:"/>
+    <language id="44" text="Adicionar Documento"/>
+    <language id="45" text="Já existe um documento com esse nome."/>
+    <language id="46" text="Novo Documento"/>
+    <language id="47" text="Adicionar aos Favoritos"/>
+    <language id="48" text="Remover dos Favoritos"/>
+    <language id="49" text="Selecione uma imagem, áudio ou vídeo"/>
+    <language id="50" text="Tipo de arquivo não suportado."/>
+    <language id="51" text="Atualizar"/>
+    <language id="52" text="Colar"/>
+    <language id="53" text="Novo"/>
+    <language id="54" text="Pasta"/>
+    <language id="55" text="Documento"/>
+    <language id="56" text="Abrir"/>
+    <language id="57" text="Adicionar aos Favoritos"/>
+    <language id="58" text="Copiar"/>
+    <language id="59" text="Deletar"/>
+    <language id="60" text="Renomear"/>
+    <language id="61" text="Personalizar"/>
+    <language id="62" text="Tema"/>
+    <language id="63" text="Cor"/>
+    <language id="64" text="Sobre"/>
+    <language id="65" text="Versão"/>
+    <language id="66" text="Todos os direitos reservados."/>
+    <language id="67" text="Restaurar"/>
+    <language id="68" text="Minimizar"/>
+    <language id="69" text="Maximizar"/>
+    <language id="70" text="Fechar"/>
+    <language id="71" text="Pesquisar.."/>
+    <language id="72" text="Recortar"/>
+</languages>

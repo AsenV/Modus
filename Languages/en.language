@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language id="0" text="langManager[0]"/>
+    <language id="1" text="Home"/>
+    <language id="2" text="Untitled"/>
+    <language id="3" text="File"/>
+    <language id="4" text="New"/>
+    <language id="5" text="Open.."/>
+    <language id="6" text="Save"/>
+    <language id="7" text="Save As.."/>
+    <language id="8" text="Close"/>
+    <language id="9" text="Files"/>
+    <language id="10" text="Tools"/>
+    <language id="11" text="Debug"/>
+    <language id="12" text="Auto Save"/>
+    <language id="13" text="Scroll Down"/>
+    <language id="14" text="Associate"/>
+    <language id="15" text="Customize"/>
+    <language id="16" text="Do you want to associate the .dus file extension with Modus?"/>
+    <language id="17" text="Confirm Action"/>
+    <language id="18" text="Help"/>
+    <language id="19" text="About"/>
+    <language id="20" text="Language"/>
+    <language id="21" text="Error opening file:"/>
+    <language id="22" text="Error saving file:"/>
+    <language id="23" text="Do you want to save the changes?"/>
+    <language id="24" text="No results found."/>
+    <language id="25" text="Error"/>
+    <language id="26" text="Cannot paste the folder inside itself."/>
+    <language id="27" text="Cannot paste the folder inside one of its subfolders."/>
+    <language id="28" text="Copy"/>
+    <language id="29" text="Are you sure you want to delete this folder and all its contents?"/>
+    <language id="30" text="Delete Folder"/>
+    <language id="31" text="Are you sure you want to delete this document?"/>
+    <language id="32" text="Delete Document"/>
+    <language id="33" text="Enter the new folder name:"/>
+    <language id="34" text="Rename Folder"/>
+    <language id="35" text="A folder with this name already exists."/>
+    <language id="36" text="Enter the new document name:"/>
+    <language id="37" text="Rename Document"/>
+    <language id="38" text="A document with this name already exists."/>
+    <language id="39" text="Enter the name of the new folder:"/>
+    <language id="40" text="Add Folder"/>
+    <language id="41" text="A folder with this name already exists."/>
+    <language id="42" text="New Folder"/>
+    <language id="43" text="Enter the name of the new document:"/>
+    <language id="44" text="Add Document"/>
+    <language id="45" text="A document with this name already exists."/>
+    <language id="46" text="New Document"/>
+    <language id="47" text="Add to Favorites"/>
+    <language id="48" text="Remove from Favorites"/>
+    <language id="49" text="Select an image, audio, or video"/>
+    <language id="50" text="Unsupported file type."/>
+    <language id="51" text="Refresh"/>
+    <language id="52" text="Paste"/>
+    <language id="53" text="New"/>
+    <language id="54" text="Folder"/>
+    <language id="55" text="Document"/>
+    <language id="56" text="Open"/>
+    <language id="57" text="Add to Favorites"/>
+    <language id="58" text="Copy"/>
+    <language id="59" text="Delete"/>
+    <language id="60" text="Rename"/>
+    <language id="61" text="Customize"/>
+    <language id="62" text="Theme"/>
+    <language id="63" text="Color"/>
+    <language id="64" text="About"/>
+    <language id="65" text="Version"/>
+    <language id="66" text="All rights reserved."/>
+    <language id="67" text="Restore"/>
+    <language id="68" text="Minimize"/>
+    <language id="69" text="Maximize"/>
+    <language id="70" text="Close"/>
+    <language id="71" text="Search.."/>
+    <language id="72" text="Cut"/>
+</languages>
